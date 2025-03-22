@@ -9,14 +9,6 @@ Attributes:
             r"F:\Study Material\Data Engineering\Ass 4\edgedriver_win64\msedgedriver.exe"
 """
 
-website_urls = {
-    "pakLap": "https://www.paklap.pk/computers.html",
-    "czone": "https://www.czone.com.pk/",
-    "rbtechngames": "https://rbtechngames.com/",
-    "zahcomputers": "https://zahcomputers.pk/",
-    "microzaib": "https://microzaib.com"
-}
-
 dadducharger_urls =[
     "https://dadducharger.com/product-category/all-products/computer-parts/",
     "https://dadducharger.com/product-category/all-products/computers-accessories/webcam/",
